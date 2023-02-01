@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmiteRandomizer</string>
+    <string name="solo">Solo</string>
+    <string name="support">Support</string>
+    <string name="jungle">Jungle</string>
+    <string name="carry">Carry</string>
+    <string name="mid">Mid</string>
+</resources>
